@@ -1,0 +1,15 @@
+{
+  "name": "rosasite",
+  "version": "1.0.0",
+  "description": "Unit Test Automation w. JEST (Rosasite is a carbonate mineral with minor potential for use as a zinc and copper ore.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
