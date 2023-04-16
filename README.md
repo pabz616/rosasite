@@ -20,3 +20,4 @@ Requres the following:
 * preferred IDE - `https://visualstudio.microsoft.com/vs/`
 * create package.json - `npm init -y`
 * install JEST - `npm install --save-dev jest`
+* run JEST - `npm run tests {directory}` or `npm run tests/test_name.js`
